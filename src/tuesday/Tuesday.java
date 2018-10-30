@@ -16,6 +16,7 @@ public class Tuesday {
      */
     public static void main(String[] args) {
         System.out.println("Hello World !");
+        System.out.println("abc");
         // TODO code application logic here
     }
     
